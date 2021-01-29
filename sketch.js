@@ -169,7 +169,7 @@ function draw() {
 
           gameState = "end";
           textSize(50);
-          text("Game Over :(",300,300);
+          text("Game Over :(",300,250);
          
          }
 
